@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Old Fashioned",
+    "ingredients": [
+      {
+        "type": "whiskey::rye",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [2, 3]
+      }
+    ]
+  },
+  {
+    "name": "Martinez",
+    "ingredients": [
+      {
+        "type": "gin::old-tom",
+        "unit": "ounce",
+        "amount": [1.5, 1.5]
+      },
+      {
+        "type": "vermouth::sweet",
+        "unit": "ounce",
+        "amount": [1.5, 1.5]
+      },
+      {
+        "type": "maraschino",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      },
+      {
+        "type": "bitters::orange",
+        "unit": "dash",
+        "amount": [2, 2]
+      }
+    ],
+    "garnish": [
+      "Lemon twist"
+    ]
+  },
+  {
+    "name": "Martini",
+    "ingredients": [
+      {
+        "type": "gin::dry",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "vermouth::dry",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "bitters::orange",
+        "unit": "dash",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Manhattan",
+    "ingredients": [
+      {
+        "type": "whiskey::rye",
+        "unit": "ounce",
+        "amount": [4, 4]
+      },
+      {
+        "type": "vermouth::sweet",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [4, 4]
+      }
+    ],
+    "garnish": [
+      "2 Maraschino cherries"
+    ]
+  },
+  {
+    "name": "Brooklyn",
+    "ingredients": [
+      {
+        "type": "whiskey::rye",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "vermouth::dry",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "maraschino",
+        "unit": "ounce",
+        "amount": [0.25, 0.25]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [1, 4]
+      }
+    ]
+  },
+  {
+    "name": "Daiquiri",
+    "ingredients": [
+      {
+        "type": "rum::light",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Margarita",
+    "ingredients": [
+      {
+        "type": "tequila::blanco",
+        "unit": "ounce",
+        "amount": [4, 4]
+      },
+      {
+        "type": "triple-sec",
+        "canonicalBrand": "Cointreau",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [1.5, 1.5]
+      }
+    ],
+    "garnish": [
+      "Lime wedge, plus 2 lime wheels",
+      "1 tablespoon coarse salt"
+    ]
+  },
+  {
+    "name": "Sidecar",
+    "ingredients": [
+      {
+        "type": "cognac::vsop",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "triple-sec",
+        "canonicalBrand": "Cointreau",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "juice::lemon",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      }
+    ],
+    "garnish": [
+      "superfine sugar (optional)"
+    ]
+  },
+  {
+    "name": "French 75",
+    "ingredients": [
+      {
+        "type": "gin",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::lemon",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [2, 2]
+      },
+      {
+        "type": "wine::sparkling",
+        "unit": "ounce",
+        "amount": [3, 5]
+      }
+    ],
+    "garnish": [
+      "long thin lemon spiral",
+      "cocktail cherry"
+    ]
+  },
+  {
+    "name": "Bloody Mary",
+    "ingredients": [
+      {
+        "type": "salt::celery",
+        "unit": "tablespoon",
+        "amount": [1, 1]
+      },
+      {
+        "type": "lemon",
+        "comment": "Cut into two wedges",
+        "unit": "piece",
+        "amount": [0.25, 0.25]
+      },
+      {
+        "type": "sauce::worcestershire",
+        "unit": "teaspoon",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "sauce::soy",
+        "unit": "teaspoon",
+        "amount": [0.25, 0.25]
+      },
+      {
+        "type": "pepper::black",
+        "comment": "Freshly ground",
+        "unit": "teaspoon",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "pepper::cayenne",
+        "unit": "dash",
+        "amount": [1, 1]
+      },
+      {
+        "type": "sauce::hot",
+        "comment": "such as Franks",
+        "unit": "teaspoon",
+        "amount": [0.25, 0.25]
+      },
+      {
+        "type": "horseradish",
+        "comment": "Freshly grated",
+        "unit": "teaspoon",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "vodka",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::tomato",
+        "unit": "ounce",
+        "amount": [4, 4]
+      },
+      {
+        "type": "celery",
+        "unit": "stick",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Irish Coffee",
+    "ingredients": [
+      {
+        "type": "whiskey::irish",
+        "unit": "ounce",
+        "amount": [1.5, 2]
+      },
+      {
+        "type": "coffee",
+        "unit": "ounce",
+        "amount": [4, 4]
+      },
+      {
+        "type": "syrup::simple",
+        "unit": "ounce",
+        "amount": [0.5, 1]
+      },
+      {
+        "type": "cream::whipped",
+        "unit": "ounce",
+        "amount": [1, 2]
+      }
+    ]
+  },
+  {
+    "name": "Jack Rose",
+    "ingredients": [
+      {
+        "type": "applejack",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "grenadine",
+        "comment": "Preferably homemade",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "juice::lemon",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Negroni",
+    "ingredients": [
+      {
+        "type": "gin::dry",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "campari",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "vermouth::sweet",
+        "unit": "ounce",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Boulevardier",
+    "ingredients": [
+      {
+        "type": "bourbon",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "campari",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "vermouth::sweet",
+        "unit": "ounce",
+        "amount": [1, 1]
+      }
+    ],
+    "garnish": [
+      "Orange twist or cherry"
+    ]
+  },
+  {
+    "name": "Sazerac",
+    "ingredients": [
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [3, 4]
+      },
+      {
+        "type": "water",
+        "unit": "drop",
+        "amount": [1, 8]
+      },
+      {
+        "type": "whiskey::rye",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "absinthe",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      }
+    ],
+    "garnish": [
+      "Lemon peel"
+    ]
+  },
+  {
+    "name": "Vieux Carré",
+    "ingredients": [
+      {
+        "type": "benedictine",
+        "unit": "teaspoon",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "bitters",
+        "canonicalBrand": "Peychaud’s",
+        "unit": "dash",
+        "amount": [1.0, 1.0]
+      },
+      {
+        "type": "bitters",
+        "canonicalBrand": "Angostura",
+        "unit": "dash",
+        "amount": [1.0, 1.0]
+      },
+      {
+        "type": "whiskey::rye",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "cognac",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "vermouth::sweet",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      }
+    ]
+  },
+  {
+    "name": "Ramos Fizz",
+    "ingredients": [
+      {
+        "type": "gin",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "cream",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "egg::white",
+        "unit": "piece",
+        "amount": [1, 1]
+      },
+      {
+        "type": "juice::lemon",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [2, 2]
+      },
+      {
+        "type": "water::orange-flower",
+        "unit": "drop",
+        "amount": [2, 3]
+      },
+      {
+        "type": "water::seltzer",
+        "unit": "ounce",
+        "amount": [1, 2]
+      }
+    ]
+  },
+  {
+    "name": "Mint Julep",
+    "ingredients": [
+      {
+        "type": "bourbon",
+        "unit": "ounce",
+        "amount": [2, 3]
+      },
+      {
+        "type": "syrup::simple",
+        "unit": "teaspoon",
+        "amount": [2, 2]
+      },
+      {
+        "type": "mint::leave",
+        "unit": "piece",
+        "amount": [8, 10]
+      }
+    ],
+    "garnish": [
+      "Mint sprigs"
+    ]
+  },
+  {
+    "name": "Whiskey Sour",
+    "ingredients": [
+      {
+        "type": "whiskey",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::lemon",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      },
+      {
+        "type": "egg::white",
+        "unit": "piece",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Mai Tai",
+    "ingredients": [
+      {
+        "type": "rum::jamaican",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "curaçao",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "orgeat",
+        "unit": "ounce",
+        "amount": [0.25, 0.25]
+      },
+      {
+        "type": "syrup::rock-candy",
+        "unit": "ounce",
+        "amount": [0.25, 0.25]
+      }
+    ],
+    "garnish": [
+      "Lime shell",
+      "Mint"
+    ]
+  },
+  {
+    "name": "Planter's Punch",
+    "ingredients": [
+      {
+        "type": "rum::jamaican::dark",
+        "canonicalBrand": "Coruba",
+        "unit": "ounce",
+        "amount": [3, 3]
+      },
+      {
+        "type": "syrup::simple",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [3, 3]
+      }
+    ]
+  },
+  {
+    "name": "Cosmopolitan",
+    "ingredients": [
+      {
+        "type": "vodka::citrus",
+        "unit": "ounce",
+        "amount": [1.5, 1.5]
+      },
+      {
+        "type": "triple-sec",
+        "canonicalBrand": "Cointreau",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "juice::cranberry",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [0.25, 0.25]
+      }
+    ],
+    "garnish": [
+      "Orange twist"
+    ]
+  },
+  {
+    "name": "Pisco Sour",
+    "ingredients": [
+      {
+        "type": "pisco",
+        "unit": "ounce",
+        "amount": [3, 3]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "syrup::simple",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "egg::white",
+        "unit": "piece",
+        "amount": [1, 1]
+      },
+      {
+        "type": "bitters",
+        "unit": "dash",
+        "amount": [1, 1]
+      }
+    ]
+  },
+  {
+    "name": "Tom Collins",
+    "ingredients": [
+      {
+        "type": "gin",
+        "unit": "ounce",
+        "amount": [2, 2]
+      },
+      {
+        "type": "juice::lemon",
+        "unit": "ounce",
+        "amount": [1, 1]
+      },
+      {
+        "type": "sugar",
+        "unit": "teaspoon",
+        "amount": [1, 1]
+      },
+      {
+        "type": "water::soda",
+        "unit": "ounce",
+        "amount": [1, 3]
+      }
+    ]
+  },
+  {
+    "name": "The Last Word",
+    "ingredients": [
+      {
+        "type": "gin",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "maraschino",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      },
+      {
+        "type": "chartreuse::green",
+        "unit": "ounce",
+        "amount": [0.75, 0.75]
+      }
+    ]
+  }
+]

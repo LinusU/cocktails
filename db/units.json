@@ -1,0 +1,9 @@
+{
+  "dash": [ "dash", "dashes" ],
+  "drop": [ "drop", "drops" ],
+  "ounce": [ "ounce", "ounces" ],
+  "piece": [ "piece", "pieces" ],
+  "stick": [ "stick", "sticks" ],
+  "teaspoon": [ "teaspoon", "teaspoons" ],
+  "tablespoon": [ "tablespoon", "tablespoons" ]
+}

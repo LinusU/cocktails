@@ -1,0 +1,204 @@
+[
+  {
+    "type": "absinthe",
+    "brand": "Pernod",
+    "systembolagetId": 80422
+  },
+  {
+    "type": "applejack",
+    "brand": "Laird's Applejack",
+    "systembolagetId": 86358
+  },
+  {
+    "type": "benedictine",
+    "brand": "Bénédictine",
+    "systembolagetId": 602
+  },
+  {
+    "type": "bitters",
+    "brand": "Angostura",
+    "systembolagetId": 741
+  },
+  {
+    "type": "bitters::orange",
+    "brand": "Angostura Orange",
+    "systembolagetId": 86210
+  },
+  {
+    "type": "bourbon",
+    "brand": "Bulleit Bourbon",
+    "systembolagetId": 570
+  },
+  {
+    "type": "campari",
+    "brand": "Campari",
+    "systembolagetId": 714
+  },
+  {
+    "type": "celery"
+  },
+  {
+    "type": "chartreuse::green"
+  },
+  {
+    "type": "coffee"
+  },
+  {
+    "type": "cognac"
+  },
+  {
+    "type": "cognac::vsop",
+    "brand": "Braastad",
+    "systembolagetId": 80569
+  },
+  {
+    "type": "cream"
+  },
+  {
+    "type": "cream::whipped"
+  },
+  {
+    "type": "curaçao"
+  },
+  {
+    "type": "egg::white"
+  },
+  {
+    "type": "gin"
+  },
+  {
+    "type": "gin::dry"
+  },
+  {
+    "type": "gin::old-tom",
+    "brand": "Hernö",
+    "systembolagetId": 30048
+  },
+  {
+    "type": "grenadine"
+  },
+  {
+    "type": "horseradish"
+  },
+  {
+    "type": "juice::cranberry"
+  },
+  {
+    "type": "juice::lemon"
+  },
+  {
+    "type": "juice::lime"
+  },
+  {
+    "type": "juice::tomato"
+  },
+  {
+    "type": "lemon"
+  },
+  {
+    "type": "maraschino",
+    "brand": "Luxardo Maraschino",
+    "systembolagetId": 80738
+  },
+  {
+    "type": "mint::leave"
+  },
+  {
+    "type": "orgeat"
+  },
+  {
+    "type": "pepper::black"
+  },
+  {
+    "type": "pepper::cayenne"
+  },
+  {
+    "type": "pisco",
+    "brand": "Lapostolle",
+    "systembolagetId": 388
+  },
+  {
+    "type": "rum::jamaican"
+  },
+  {
+    "type": "rum::jamaican::dark"
+  },
+  {
+    "type": "rum::light"
+  },
+  {
+    "type": "salt::celery"
+  },
+  {
+    "type": "sauce::hot"
+  },
+  {
+    "type": "sauce::soy"
+  },
+  {
+    "type": "sauce::worcestershire"
+  },
+  {
+    "type": "sugar"
+  },
+  {
+    "type": "syrup::rock-candy"
+  },
+  {
+    "type": "syrup::simple"
+  },
+  {
+    "type": "tequila::blanco"
+  },
+  {
+    "type": "triple-sec",
+    "brand": "Cointreau",
+    "systembolagetId": 609
+  },
+  {
+    "type": "vermouth::dry",
+    "brand": "Noilly Prat",
+    "systembolagetId": 8610
+  },
+  {
+    "type": "vermouth::sweet",
+    "brand": "Martini Rosso",
+    "systembolagetId": 8680
+  },
+  {
+    "type": "vodka",
+    "brand": "Vanlig Vodka",
+    "systembolagetId": 10
+  },
+  {
+    "type": "vodka::citrus",
+    "brand": "Absolut Citron",
+    "systembolagetId": 98
+  },
+  {
+    "type": "water"
+  },
+  {
+    "type": "water::orange-flower"
+  },
+  {
+    "type": "water::seltzer"
+  },
+  {
+    "type": "water::soda"
+  },
+  {
+    "type": "whiskey"
+  },
+  {
+    "type": "whiskey::irish"
+  },
+  {
+    "type": "whiskey::rye",
+    "brand": "Bulleit Rye",
+    "systembolagetId": 495
+  },
+  {
+    "type": "wine::sparkling"
+  }
+]
