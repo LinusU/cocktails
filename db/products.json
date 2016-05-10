@@ -1,0 +1,124 @@
+[
+  {
+    "type": "absinthe",
+    "brand": "Pernod",
+    "systembolagetId": 80422
+  },
+  {
+    "type": "applejack",
+    "brand": "Laird's Applejack",
+    "systembolagetId": 86358
+  },
+  {
+    "type": "benedictine",
+    "brand": "Bénédictine",
+    "systembolagetId": 602
+  },
+  {
+    "type": "bitters",
+    "brand": "Angostura",
+    "systembolagetId": 741
+  },
+  {
+    "type": "bitters::orange",
+    "brand": "Angostura Orange",
+    "systembolagetId": 86210
+  },
+  {
+    "type": "bourbon",
+    "brand": "Bulleit Bourbon",
+    "systembolagetId": 570
+  },
+  {
+    "type": "campari",
+    "brand": "Campari",
+    "systembolagetId": 714
+  },
+  {
+    "type": "cognac::vsop",
+    "brand": "Braastad",
+    "systembolagetId": 80569
+  },
+  {
+    "type": "gin",
+    "brand": "Hendrick's",
+    "systembolagetId": 81679
+  },
+  {
+    "type": "gin::dry",
+    "brand": "Tanqueray",
+    "systembolagetId": 10239
+  },
+  {
+    "type": "gin::old-tom",
+    "brand": "Hernö",
+    "systembolagetId": 30048
+  },
+  {
+    "type": "maraschino",
+    "brand": "Luxardo Maraschino",
+    "systembolagetId": 80738
+  },
+  {
+    "type": "pisco",
+    "brand": "Lapostolle",
+    "systembolagetId": 388
+  },
+  {
+    "type": "rum::jamaican"
+  },
+  {
+    "type": "rum::jamaican::dark",
+    "brand": "Appleton Estate",
+    "systembolagetId": 517
+  },
+  {
+    "type": "rum::light",
+    "brand": "Olokun",
+    "systembolagetId": 527
+  },
+  {
+    "type": "tequila::blanco",
+    "brand": "Sauza",
+    "systembolagetId": 65
+  },
+  {
+    "type": "triple-sec",
+    "brand": "Cointreau",
+    "systembolagetId": 609
+  },
+  {
+    "type": "vermouth::dry",
+    "brand": "Noilly Prat",
+    "systembolagetId": 8610
+  },
+  {
+    "type": "vermouth::sweet",
+    "brand": "Martini Rosso",
+    "systembolagetId": 8680
+  },
+  {
+    "type": "vodka",
+    "brand": "Vanlig Vodka",
+    "systembolagetId": 10
+  },
+  {
+    "type": "vodka::citrus",
+    "brand": "Absolut Citron",
+    "systembolagetId": 98
+  },
+  {
+    "type": "whiskey"
+  },
+  {
+    "type": "whiskey::irish"
+  },
+  {
+    "type": "whiskey::rye",
+    "brand": "Bulleit Rye",
+    "systembolagetId": 495
+  },
+  {
+    "type": "wine::sparkling"
+  }
+]

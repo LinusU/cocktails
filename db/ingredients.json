@@ -1,41 +1,30 @@
 [
   {
     "type": "absinthe",
-    "brand": "Pernod",
-    "systembolagetId": 80422
+    "name": "Absinthe"
   },
   {
-    "type": "applejack",
-    "brand": "Laird's Applejack",
-    "systembolagetId": 86358
+    "type": "applejack"
   },
   {
-    "type": "benedictine",
-    "brand": "Bénédictine",
-    "systembolagetId": 602
+    "type": "benedictine"
   },
   {
-    "type": "bitters",
-    "brand": "Angostura",
-    "systembolagetId": 741
+    "type": "bitters"
   },
   {
     "type": "bitters::orange",
-    "brand": "Angostura Orange",
-    "systembolagetId": 86210
+    "name": "Orange Bitters"
   },
   {
-    "type": "bourbon",
-    "brand": "Bulleit Bourbon",
-    "systembolagetId": 570
+    "type": "bourbon"
   },
   {
-    "type": "campari",
-    "brand": "Campari",
-    "systembolagetId": 714
+    "type": "campari"
   },
   {
-    "type": "celery"
+    "type": "celery",
+    "name": "Celery"
   },
   {
     "type": "chartreuse::green"
@@ -48,14 +37,15 @@
   },
   {
     "type": "cognac::vsop",
-    "brand": "Braastad",
-    "systembolagetId": 80569
+    "name": "Cognac - VSOP"
   },
   {
-    "type": "cream"
+    "type": "cream",
+    "name": "Cream"
   },
   {
-    "type": "cream::whipped"
+    "type": "cream::whipped",
+    "name": "Whipped cream"
   },
   {
     "type": "curaçao"
@@ -64,15 +54,16 @@
     "type": "egg::white"
   },
   {
-    "type": "gin"
+    "type": "gin",
+    "name": "Gin"
   },
   {
-    "type": "gin::dry"
+    "type": "gin::dry",
+    "name": "Dry Gin"
   },
   {
     "type": "gin::old-tom",
-    "brand": "Hernö",
-    "systembolagetId": 30048
+    "name": "Old Tom Gin"
   },
   {
     "type": "grenadine"
@@ -96,9 +87,7 @@
     "type": "lemon"
   },
   {
-    "type": "maraschino",
-    "brand": "Luxardo Maraschino",
-    "systembolagetId": 80738
+    "type": "maraschino"
   },
   {
     "type": "mint::leave"
@@ -113,9 +102,7 @@
     "type": "pepper::cayenne"
   },
   {
-    "type": "pisco",
-    "brand": "Lapostolle",
-    "systembolagetId": 388
+    "type": "pisco"
   },
   {
     "type": "rum::jamaican"
@@ -151,38 +138,31 @@
     "type": "tequila::blanco"
   },
   {
-    "type": "triple-sec",
-    "brand": "Cointreau",
-    "systembolagetId": 609
+    "type": "triple-sec"
   },
   {
-    "type": "vermouth::dry",
-    "brand": "Noilly Prat",
-    "systembolagetId": 8610
+    "type": "vermouth::dry"
   },
   {
-    "type": "vermouth::sweet",
-    "brand": "Martini Rosso",
-    "systembolagetId": 8680
+    "type": "vermouth::sweet"
   },
   {
-    "type": "vodka",
-    "brand": "Vanlig Vodka",
-    "systembolagetId": 10
+    "type": "vodka"
   },
   {
-    "type": "vodka::citrus",
-    "brand": "Absolut Citron",
-    "systembolagetId": 98
+    "type": "vodka::citrus"
   },
   {
-    "type": "water"
+    "type": "water",
+    "name": "Water"
   },
   {
-    "type": "water::orange-flower"
+    "type": "water::orange-flower",
+    "name": "Orange flower water"
   },
   {
-    "type": "water::seltzer"
+    "type": "water::seltzer",
+    "name": "Seltzer"
   },
   {
     "type": "water::soda"
@@ -191,14 +171,15 @@
     "type": "whiskey"
   },
   {
-    "type": "whiskey::irish"
+    "type": "whiskey::irish",
+    "name": "Irish Whiskey"
   },
   {
     "type": "whiskey::rye",
-    "brand": "Bulleit Rye",
-    "systembolagetId": 495
+    "name": "Rye Whiskey"
   },
   {
-    "type": "wine::sparkling"
+    "type": "wine::sparkling",
+    "name": "Sparkling Wine"
   }
 ]
