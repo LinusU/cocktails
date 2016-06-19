@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Grand Swizzle",
+    "ingredients": [
+      {
+        "type": "vodka::apple",
+        "canonicalBrand": "Twenty Grand",
+        "unit": "ounce",
+        "amount": [1.5, 1.5]
+      },
+      {
+        "type": "rum",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "juice::lime",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "syrup::simple",
+        "unit": "ounce",
+        "amount": [0.5, 0.5]
+      },
+      {
+        "type": "bitters",
+        "canonicalBrand": "Angostura",
+        "unit": "dash",
+        "amount": [2, 2]
+      }
+    ],
+    "garnish": [
+      "Orange twist"
+    ]
+  }
+]
